@@ -47,6 +47,6 @@ button {
   font-weight:900;
 }
 
-.nav-toggle.list-close-btn::before {
+.nav-toggle.close-btn::before {
   content:'\f00d';
 }
